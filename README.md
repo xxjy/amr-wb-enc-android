@@ -17,7 +17,7 @@ and:
 
 ```gradle
 dependencies {
-    compile 'com.github.xxjy:amr-wb-enc-android:${LATEST_VERSION}'
+    implementation 'com.github.xxjy:amr-wb-enc-android:1.0.0@aar'
 }
 ```
 
